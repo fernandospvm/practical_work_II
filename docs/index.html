@@ -1,20 +1,34 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Practical Work II</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
     <h2>Practical Work II</h2>
-    <p>links</p>
-    <ul>
-        <li><a href="public\contact.html">Contact</a></li>
-        <li><a href="public\about.html">About</a></li>
-        <li><a href="public\net.html">net</a></li>
-        <li><a href="public\degree.html">degree</a></li>
-        <li><a href="public\topic.html">Topic</a></li>
-    </ul>
+    <!-- Menú desplegable -->
+    <div class="navbar">
+        <div class="dropdown">
+            <button class="dropbtn">Menú
+                <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-content">
+                <a href="about.html">About</a>
+                <a href="contact.html">Contact</a>
+                <a href="degree.html">Degree</a>
+                <a href="net.html">Net</a>
+                <a href="topic.html">Topic</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Contenido de la página principal -->
+    <h1>Bienvenido a la página con menú desplegable</h1>
+    <p>Selecciona una opción del menú para obtener más información.</p>
 
 </body>
 
