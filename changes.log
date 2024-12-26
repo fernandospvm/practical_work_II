@@ -1,0 +1,53 @@
+commit 92ceaafc07ea40892fddcd020fd151805453fa4b
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 11:37:19 2024 +0100
+
+    Making the contact ways
+
+commit 6c9dad0167be4825693349ed64339a894dc5d8b1
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 11:27:29 2024 +0100
+
+    Correcting a mistake in the redirection links
+
+commit 201115d72ada500a45b410cb6c2a0b1d2b3e18ec
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 11:22:16 2024 +0100
+
+    Creating the redirections of the other pages in the main page
+
+commit 568020e9be86d683ce6e6b3730e72a5080112246
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 11:20:14 2024 +0100
+
+    First steps in developing the fce webpage
+
+commit 6291655aca8dc552f72f365f62e107968f66bda6
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 11:11:30 2024 +0100
+
+    Creating a redirection to a specific FCE page
+
+commit 5241437d230137c77c9effbf58dd10672b86bd08
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 11:06:32 2024 +0100
+
+    Adding fce page to the repo
+
+commit 6adcaba12d85fdb24b7d3a5a4054824701222d9c
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 11:02:21 2024 +0100
+
+    Ennumerating the subjects covered through the first year of the degree
+
+commit 31fd0cf0d8dd6379a7da8490847a602bb101ed77
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 10:23:53 2024 +0100
+
+    Creating all necessary folders
+
+commit 20a6d7b41ab0200c1204b349e91e9e183147d396
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 10:17:31 2024 +0100
+
+    Initial commit
