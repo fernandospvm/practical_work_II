@@ -1,3 +1,45 @@
+commit 40b351fe61d223c82a73e0e47f7a073159dd0580
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 21:48:12 2024 +0100
+
+    Correcting mistakes. The only one missing to finish in the index page is th topic one.
+
+commit 0f9564a52d3dd1f1ae8ebfae94638b7fbc1c9e37
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 21:44:10 2024 +0100
+
+    Another change donde. Now the net section has as well an image and brief descrpition in the index page
+
+commit c5f28b35852e890a9180d93c93a7ebccd9d5b9bb
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 21:43:08 2024 +0100
+
+    Adding another image used.
+
+commit daab847b29159000bd7804d2530c36ec84672a0f
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 21:38:28 2024 +0100
+
+    Added style, pictures and the index.hmtl file is almost complete
+
+commit 9f3541c3ce47e742a0bdc91efdc03a4adde1af6a
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 21:37:10 2024 +0100
+
+    These is the CSS file for the style of the index.html page
+
+commit 61c3d274383c06c51fedae875bf463fd986b266d
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 21:36:09 2024 +0100
+
+    Adding the new images used in the webpage
+
+commit ef816fa7bbbf1092cd27ba9e3d225e4246aed0cc
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 20:12:25 2024 +0100
+
+    Updating the changes file with all the changes made
+
 commit ee16f123bf7d5440faff8ab35c02df97a32746a6
 Author: fernandospvm <9401422@alumnos.ufv.es>
 Date:   Thu Dec 26 19:02:25 2024 +0100
