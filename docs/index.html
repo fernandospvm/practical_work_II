@@ -1,53 +1,172 @@
 <!DOCTYPE html>
-<html lang="es">
+<html>
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Basic -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <!-- Site Metas -->
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+
     <title>Practical Work II</title>
-    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .container {
+            max-width: 1000px;
+            width: 100%;
+            margin: 0 auto;
+        }
+
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+
+        .header-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .header-title {
+            font-size: 1.5rem;
+            padding-left: 20px;
+        }
+
+        nav {
+            display: flex;
+            gap: 20px;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            font-size: 1rem;
+            padding: 5px 10px;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        nav a:hover {
+            background-color: #555;
+        }
+
+        nav a.active {
+            background-color: red;
+            color: white;
+        }
+
+        .footer-section {
+            max-width: 1000px;
+            width: 100%;
+            background-color: #333;
+            color: white;
+            text-align: center;
+        }
+
+        .footer-section a {
+            color: red;
+            text-decoration: none;
+        }
+
+        .footer-section a:hover {
+            text-decoration: underline;
+        }
+
+        .content {
+            height: 800px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            background-color: #f5f5f5;
+        }
+
+        .menu {
+            background-color: #1a1a2e;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+
+        .menu-content {
+            display: flex;
+            justify-content: center;
+            gap: 50px;
+            align-items: center;
+        }
+
+        .menu-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .menu-item p {
+            margin: 10px 0 0;
+            font-size: 14px;
+        }
+
+        .menu-icon {
+            width: 40px;
+            height: 40px;
+        }
+    </style>
 </head>
 
 <body>
-    <h2>Practical Work II</h2>
-    <!-- Menú desplegable -->
-    <div class="navbar">
-        <div class="dropdown">
-            <button class="dropbtn">Menú
-                <i class="fa fa-caret-down"></i>
-            </button>
-            <div class="dropdown-content">
+    <header class="container">
+        <div class="header-content">
+            <div class="header-title">Practical Work II</div>
+            <nav>
+                <a href="index.html">Home</a>
                 <a href="public/about.html">About</a>
                 <a href="public/contact.html">Contact</a>
                 <a href="public/degree.html">Degree</a>
-                <a href="public/net.html">Net</a>
+                <a href="public/net.html">Other people's website</a>
                 <a href="public/topic.html">Topic</a>
+            </nav>
+        </div>
+    </header>
+    <main class="container">
+        <div class="content">
+            <h1>Welcome to the Webpage</h1>
+            <p>This is the central area of the webpage where you can include your content.</p>
+        </div>
+        <div class="menu">
+            <div class="menu-item">
+                <img src="C:\Users\Internet\Desktop\activity_iii\my_first_web_page_2024\images\location-white.png"
+                    alt="Location Icon" class="menu-icon">
+                <p>Location</p>
+            </div>
+            <div class="menu-item">
+                <img src="C:\Users\Internet\Desktop\activity_iii\my_first_web_page_2024\images\telephone-white.png"
+                    alt="Phone Icon" class="menu-icon">
+                <p>+02 1234567890</p>
+            </div>
+            <div class="menu-item">
+                <img src="C:\Users\Internet\Desktop\activity_iii\my_first_web_page_2024\images\envelope-white.png"
+                    alt="Email Icon" class="menu-icon">
+                <p>fernando.spv@gmail.com</p>
             </div>
         </div>
-    </div>
-
-    <!-- Contenido de la página principal -->
-    <h1>Bienvenido a la página con menú desplegable</h1>
-    <p>Selecciona una opción del menú para obtener más información.</p>
-    <script>
-        function toggleDropdown() {
-            document.getElementById("myDropdown").classList.toggle("show");
-        }
-
-        // Cerrar el menú desplegable si el usuario hace clic fuera de él
-        window.onclick = function (event) {
-            if (!event.target.matches('.dropbtn')) {
-                var dropdowns = document.getElementsByClassName("dropdown-content");
-                for (var i = 0; i < dropdowns.length; i++) {
-                    var openDropdown = dropdowns[i];
-                    if (openDropdown.classList.contains('show')) {
-                        openDropdown.classList.remove('show');
-                    }
-                }
-            }
-        }
-    </script>
-
+    </main>
+    <footer class="footer-section">
+        <p>&copy; 2024 All Rights Reserved. Design by <a href="#">Fernando San Prudencio</a></p>
+    </footer>
 </body>
 
 </html>
