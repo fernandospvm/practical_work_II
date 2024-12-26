@@ -29,6 +29,24 @@
     <!-- Contenido de la página principal -->
     <h1>Bienvenido a la página con menú desplegable</h1>
     <p>Selecciona una opción del menú para obtener más información.</p>
+    <script>
+        function toggleDropdown() {
+            document.getElementById("myDropdown").classList.toggle("show");
+        }
+
+        // Cerrar el menú desplegable si el usuario hace clic fuera de él
+        window.onclick = function (event) {
+            if (!event.target.matches('.dropbtn')) {
+                var dropdowns = document.getElementsByClassName("dropdown-content");
+                for (var i = 0; i < dropdowns.length; i++) {
+                    var openDropdown = dropdowns[i];
+                    if (openDropdown.classList.contains('show')) {
+                        openDropdown.classList.remove('show');
+                    }
+                }
+            }
+        }
+    </script>
 
 </body>
 
