@@ -1,3 +1,231 @@
+commit ee16f123bf7d5440faff8ab35c02df97a32746a6
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 19:02:25 2024 +0100
+
+    Correcting a mistake
+
+commit fa03d2e32c82ca2e98a15e3e9697d2dd29fd8b74
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 19:00:29 2024 +0100
+
+    This style is for the contact page. It is used to create a form for contact.
+
+commit a64af27e59e33547af0d6a41165e67617abeb75d
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 18:59:08 2024 +0100
+
+    Made the contact page.
+
+commit 8c3410f0325f22f640560cf40584afcd4ddc64c3
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 18:40:09 2024 +0100
+
+    Fixing mistake
+
+commit bb071dd48de239393a6c4ad1cd7bb34e3502f20b
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 18:39:16 2024 +0100
+
+    Adding a new image
+
+commit 9978caae715f4a2ee8c6c4f64f6c74418f3354ff
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 18:38:44 2024 +0100
+
+    Updating
+
+commit ad752d07c510e09c8c34bdded63964d2cbff5edd
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 18:36:43 2024 +0100
+
+    Adding another person
+
+commit f2ef2e0681c68c4b9a2dc8db9955c1874e149d5f
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 18:32:34 2024 +0100
+
+    Adding another person's website to the page
+
+commit f1e5c4738e7e6f4548bad64ef46c68df6ef86a36
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 18:30:49 2024 +0100
+
+    Adding another person for the net page
+
+commit 97c3397f4a11dd67cb4d456393d02654c8e63b72
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 18:05:01 2024 +0100
+
+    Adding the first picture to the repo
+
+commit 28cd860fc6bc88b0b5f3d2440e4a7404614a3bdd
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 18:04:04 2024 +0100
+
+    Adding styles for the cards to be specifically at the net page
+
+commit 9065bdd33f153f7ebef5de333e9b5dd1391b554a
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 18:03:13 2024 +0100
+
+    Adding someone's website
+
+commit aeeb7abd35d95733a72ac5057053076e6d4758e9
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 17:14:00 2024 +0100
+
+    Fixing a bug
+
+commit 2ab99d8510011b9fd2cacba1c49ad42866ca5921
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 16:40:17 2024 +0100
+
+    Deleted an unnecesary line
+
+commit d44f516e58e706e55b99f14332ee443903f91627
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 16:39:40 2024 +0100
+
+    Deleted an unnecesary line
+
+commit 26d1d213b9b97a2b522a3ab06126566e604930cd
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 16:38:36 2024 +0100
+
+    Deleted an unnecesary line
+
+commit 13a444d74bb3b65b266feb6774d21c82846afdd4
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 16:38:05 2024 +0100
+
+    Deleted an unnecesary line
+
+commit 60248574a2900d0aae93af6b7cbf1db6fb5ede12
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 16:36:43 2024 +0100
+
+    Solved bug when clicking the home button to go back to the other pages that are not the homepage
+
+commit ae37602f3a5fcdb42d14564520461ee896d1d1d4
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 16:35:19 2024 +0100
+
+    Solved bug when clicking the home button to go back to the homepage
+
+commit 9686f82d4ef456e8987f277ab62d574fc9c18480
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 16:34:00 2024 +0100
+
+    Finally been able to call the styles.css file from this deeper file.
+
+commit ec7e4943f961c2957d8a1dd84cd8f8fc6e93cd44
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 16:07:02 2024 +0100
+
+    Adding a return home button to the net page
+
+commit 91d370d1255c2399c4bd30391c57ff9fc6c4247e
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 16:00:53 2024 +0100
+
+    Correcting some errors
+
+commit 7f10ca95765f968a39c511a5053f6956680b9b9a
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 16:00:06 2024 +0100
+
+    Fixing links error in the home page
+
+commit e8a3c6de6d548a63634b6a6c306b373c295621d5
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 15:42:56 2024 +0100
+
+    Redesigning the styles
+
+commit 3a59d19cb66fa3f97cf4ed363128f3a90893b87d
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 15:39:25 2024 +0100
+
+    Adding more links to the home page
+
+commit d7861dd8dfd459827ac3f6ea0d548d322d66e8a0
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 15:33:09 2024 +0100
+
+    Changed the design of the page to a more practical one
+
+commit 547f70b603897ab246a433dfa790ddf042d9f99a
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 13:20:42 2024 +0100
+
+    Correcting a mistake
+
+commit 72b225a9196b4bd146a1693bbe85b6f54e539c19
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 13:19:12 2024 +0100
+
+    Adding more styles to the styles file
+
+commit 30edc638eecb5533212aeaa96d5803671744cc07
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 13:18:18 2024 +0100
+
+    Improving styles and calling them into the index page
+
+commit 434e7d5339ecc4ad943d2f70441acc28f6d450ff
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 13:11:20 2024 +0100
+
+    More styles to the page
+
+commit 91bb2e8ac2dae9ed6584e734bdcfeef709fa4c41
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 13:06:47 2024 +0100
+
+    Adding styles to the index
+
+commit ce8ae69ca34e65d54111f8ac99af31ef9d924aec
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 13:04:29 2024 +0100
+
+    Creating the first tyles in the css file
+
+commit fc62e99dd46ec34cbcee100aec30def643930516
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 12:50:09 2024 +0100
+
+    Adding styles file
+
+commit c2d2f4f5b6698496bd57aea7eb8369a355ac911f
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 12:46:33 2024 +0100
+
+    Improving the contact page
+
+commit dc17b49f10ae28ca4d2a47d3cd0a7e5418ae2862
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 12:19:54 2024 +0100
+
+    Finishing the basics in the degree page
+
+commit 03ba2ed9ebf2251e467b00c4833a61a59ab0cac4
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 12:18:31 2024 +0100
+
+    Created the form to contact
+
+commit 63dda8218e90b01eb3a9f1cb29ebeedad8211d04
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 11:50:28 2024 +0100
+
+    Adding some colleagues's websites to my net page
+
+commit 42abdc1303f664d612dbdf13e3c30c5de94aaf53
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Thu Dec 26 11:47:27 2024 +0100
+
+    More changes
+
 commit 1567451840f3496dcf82e597e8033e186d797d6e
 Author: fernandospvm <9401422@alumnos.ufv.es>
 Date:   Thu Dec 26 11:45:43 2024 +0100
