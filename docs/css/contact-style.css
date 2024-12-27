@@ -30,7 +30,6 @@ header {
     padding-left: 20px;
 }
 
-/* Estilos para el formulario */
 
 body {
     margin: 0;
@@ -63,7 +62,6 @@ body {
     border-radius: 8px;
     margin-top: 80px;
     margin-bottom: 40px;
-    /* Añade espacio antes del pie de página */
     flex-grow: 1;
     overflow-y: auto;
 }
