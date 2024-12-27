@@ -33,7 +33,7 @@ header {
 
 
 .introduction {
-    align: center;
+    box-align: center;
     font-size: 18px;
     margin-top: 80px;
 }
