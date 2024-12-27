@@ -30,9 +30,63 @@ header {
     padding-left: 20px;
 }
 
-/*zona de trabajo*/
 
-/*fin de zona de trabajo*/
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+
+    color: #333;
+
+}
+
+.container h1 {
+    font-size: 36px;
+
+    font-weight: bold;
+    color: #2c3e50;
+    margin-bottom: 20px;
+}
+
+
+.container h2 {
+    font-size: 24px;
+    font-weight: normal;
+    color: #34495e;
+    margin-bottom: 15px;
+    text-indent: 40px;
+    margin-right: 40px;
+}
+
+.container h3 {
+    font-size: 24px;
+    font-weight: normal;
+    color: #34495e;
+    margin-bottom: 15px;
+    text-indent: 60px;
+    margin-right: 60px;
+}
+
+.container h4 {
+    font-size: 24px;
+    font-weight: normal;
+    color: #34495e;
+    margin-bottom: 15px;
+    text-indent: 0px;
+    margin-right: 00px;
+}
+
+
+.container p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+    text-align: justify;
+    text-indent: 0px;
+    margin-right: 80px;
+    padding-left: 80px;
+}
 
 .footer-section {
     max-width: 10000px;
