@@ -1,3 +1,39 @@
+commit 365be0122bb75bf1784b03c944e545b3a28d40dd
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Fri Dec 27 20:42:15 2024 +0100
+
+    The styles of fce.html are finally done
+
+commit 3e3ef19850981adc0664b2d83a0a92f28f7a426a
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Fri Dec 27 20:39:46 2024 +0100
+
+    Finished fce.html page
+
+commit a0673971d293ce4cd885b4e5a67e65a2db0d7e57
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Fri Dec 27 19:33:04 2024 +0100
+
+    Once i did the header and footer in the fce-style.css file, i called it in the fce.html file.
+
+commit d7bdd1e543869739fd014d471b2d100e0502d80b
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Fri Dec 27 19:17:03 2024 +0100
+
+    Added the footer and the header of the page
+
+commit c992c79ec7d7388405514285258e6bb8c3b6fa8f
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Fri Dec 27 19:14:48 2024 +0100
+
+    Just created the style CSS file for the fce.html file (the last one to finish)
+
+commit 76c4fbaa118cd585adee624fc347acb80aaf96ff
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Fri Dec 27 18:50:51 2024 +0100
+
+    Updating the changes file
+
 commit e9fe6396f9b5ce6f917f3f57bfcf37600d6cdf77
 Author: fernandospvm <9401422@alumnos.ufv.es>
 Date:   Fri Dec 27 18:49:22 2024 +0100
