@@ -1,3 +1,75 @@
+commit 31c14452dcf83340ae5711e8851961235a02c51a
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Fri Dec 27 17:36:52 2024 +0100
+
+    All subjects were added to the degree page
+
+commit b603d01cf4018e17d0ab1e2dc2909d29726d3561
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Fri Dec 27 15:06:36 2024 +0100
+
+    Correcting a mistake
+
+commit edf42017f7ab010d02db39029b36d6365d5dc831
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Fri Dec 27 15:05:31 2024 +0100
+
+    added the first year of the degree
+
+commit 35a8bbb8ea3292fa3b2ad7381aa996f9bc9d0bd5
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Fri Dec 27 15:04:13 2024 +0100
+
+    Style for the chart of the degree
+
+commit d9b304f80d12ac7ea42bdc2bd7ae8e329efb1662
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Fri Dec 27 14:34:55 2024 +0100
+
+    Correcting a mistake in all CSS files
+
+commit d384494c8e0b8a920ed5e9a101b6b0eda1980970
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Fri Dec 27 14:24:12 2024 +0100
+
+    Fixing a mistake
+
+commit e1e80d4a78f0be83a3819d1cb5d81f02e2b7569a
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Fri Dec 27 14:23:49 2024 +0100
+
+    Just finished the topic.html page, it is a brief explanation about phishing
+
+commit c87bd16799c46570fd509c6af7f8c6b82fcf190c
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Fri Dec 27 14:22:37 2024 +0100
+
+    Fixing the width of the header and the footer.
+
+commit 190d56883dd97b95a82d91742e8e8d024e8cedd4
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Fri Dec 27 14:21:24 2024 +0100
+
+    Creating the styles for topic.html
+
+commit 1706ca357c6318b5f808fa7b48a5128af6b990a6
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Fri Dec 27 14:20:32 2024 +0100
+
+    Adding all new images to the webapge
+
+commit 3482f2f50a853fec5357034adff91e3a83d3e820
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Fri Dec 27 10:51:55 2024 +0100
+
+    Starting the FCE page
+
+commit afedbbcc0435b618f58f2edce24a245a3a2b3220
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Fri Dec 27 10:18:55 2024 +0100
+
+    Updating the changes file
+
 commit 05c3e3a9ccd4a3c06f1d62dc99040b8de23f8592
 Author: fernandospvm <9401422@alumnos.ufv.es>
 Date:   Fri Dec 27 10:18:02 2024 +0100
