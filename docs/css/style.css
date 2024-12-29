@@ -261,6 +261,7 @@ tbody tr:hover {
     justify-content: center;
     margin-right: 20px;
     overflow: hidden;
+    margin-left: 40px;
 }
 
 .photohome {
@@ -450,7 +451,7 @@ tbody tr:hover {
 }
 
 a {
-    color: black;
+    color: blue;
     text-decoration: none;
 }
 
