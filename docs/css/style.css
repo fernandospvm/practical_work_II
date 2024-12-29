@@ -254,12 +254,11 @@ tbody tr:hover {
     width: 100%;
 }
 
-.photo {
-    width: 200px;
+.cardphoto {
+    width: 20%;
     height: 200px;
     display: flex;
     justify-content: center;
-    align-items: center;
     margin-right: 20px;
     overflow: hidden;
 }
@@ -281,6 +280,7 @@ tbody tr:hover {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    width: 80%;
 }
 
 .name,
@@ -334,7 +334,6 @@ tbody tr:hover {
 .link {
     padding: 10px;
     margin-bottom: 10px;
-    width: 200px;
 }
 
 .link a {
