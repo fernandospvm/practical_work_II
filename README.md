@@ -21,10 +21,14 @@ PROJECT DESCRIPTION
 CHALLENGES I FOUND
 
 
-- During theh project, I found various difficulties I had to deal with, such as finding some really silly mistakes I had made in the code (which took a lot of time to fix)
+- During the project, I found various difficulties I had to deal with, such as finding some really silly mistakes I had made in the code (which took a lot of time to fix)
 - Another challenge I had to deal with was that I made for each hmtl file, its own styles.css file. Being the main problem at the end when merging all of them into one only file.
 
 - Another thing I found was hot to call the styles.css file in deeper html files (the ones in the pusblic folder), until I realized i has ot put a ../ before the location of the folder to find it.
+
+OTHER DETAILS
+
+- I used github to be able to save the work while I did ir so not to lose it in case something happened, making commits every time a change was made.
 
 
 CONCLUSSIONS:
