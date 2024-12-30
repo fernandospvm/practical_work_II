@@ -1,8 +1,9 @@
 # practical_work_II
-PROJECT DESCRIPTION
-- In this website, you will know a little bit more about me. You will also know why am I studying this degree, why I chose it and the outcomes it has, as well as the subjects that are taken in this degree, as well as the proffesional future that this degree has. You will find as well a brief article about phishing and not that much else.  
+PROJECT OBJECTIVES
+- To demonstrate an efficient and profifient use of html for structuring the page and CSS for styling the pages.
+- To develop and design a website with various web pages following this structure
+![Website structure: ](docs/images/structurewebsite.jpg)
 
-- During the practical Work II, I have been able to test the CSS and html skills that I have learnt and acquired through the course of fundamentals of computer engineering.
 
 CHALLENGES I FOUND
 
