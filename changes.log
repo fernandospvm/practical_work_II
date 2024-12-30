@@ -1,3 +1,141 @@
+commit 466dfba733816d0b7cf9bc1e5b6f43ed4aa874b7
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Mon Dec 30 11:51:19 2024 +0100
+
+    The last link didnt work, now it works
+
+commit 1b2da4f9f0a32209203d9ce3694fc6275dc9cd5e
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Sun Dec 29 21:05:25 2024 +0100
+
+    Corrected a mistake
+
+commit a97306c1ac5b8f831f2ca484919ce352b962600a
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Sun Dec 29 21:04:55 2024 +0100
+
+    Adding the fourth link to the net.html page.
+
+commit b0c5da483082eedfbd826e966498b711ba54218d
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Sun Dec 29 21:04:05 2024 +0100
+
+    Adding a new photo
+
+commit da2a120dfa62325e07f31da27687b617df52c0df
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Sun Dec 29 19:54:14 2024 +0100
+
+    Preparing the last colleague's link
+
+commit 75f94ae82b37872c9c1d39c031a15241b82ac25f
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Sun Dec 29 19:52:28 2024 +0100
+
+    Correcting an error in the index file
+
+commit 3a2c83bc623c45731834d3acdeff1bf328249fb9
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Sun Dec 29 19:51:23 2024 +0100
+
+    Adding a new photo
+
+commit 8549dbf0bbaede27bc173b9eb017e946c0de00e1
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Sun Dec 29 19:50:43 2024 +0100
+
+    Checking the last mistakes in the styles
+
+commit 0deb4c33026c7faeadeba446abbcaa283b55f0c7
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Sun Dec 29 18:46:30 2024 +0100
+
+    Updating the CSS file with corrected errors
+
+commit 2d2cfa728447f5c370e529b9879da6baac321901
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Sun Dec 29 18:45:50 2024 +0100
+
+    Fixing errors
+
+commit b08ce8a4f0dd4a0f70b3eb0cc548b8eb403b6370
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Sun Dec 29 18:08:56 2024 +0100
+
+    Putting the merged style css file in it
+
+commit f7f11cb25c46a6f122807d0f3c60474662753ec1
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Sun Dec 29 18:08:05 2024 +0100
+
+    Adding the merged style.css file with the topic.hmtl website
+
+commit 0381eb9dccd4e9c84b3a76d19ce5e9ccd39e85e3
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Sun Dec 29 18:07:13 2024 +0100
+
+    Updating the net.html file with the merged file
+
+commit b1b57d9924d2b36c23edf0d8becce395015015d6
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Sun Dec 29 18:06:46 2024 +0100
+
+    Updating the fce.html file with the merged file
+
+commit 0e75b78af081c086e30d44efcf03618dcbcfde9e
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Sun Dec 29 18:06:28 2024 +0100
+
+    Updating the degree.html file with the merged file
+
+commit a50211a1163fbb0233f5c018f26242d9907b3134
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Sun Dec 29 18:06:04 2024 +0100
+
+    Updating the contact.html file with the merged file
+
+commit d4042f5f3e1440ded720df4cdd1ae4399f9b8eb3
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Sun Dec 29 18:05:18 2024 +0100
+
+    Updating the about.html file with the merged file
+
+commit 5bca8204a11dd8e046ab1168977d1a7a5fad683e
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Sun Dec 29 18:02:15 2024 +0100
+
+    Uploading the the css style file that merged all other files.
+
+commit 5252b57129950c8b27f547949e9a2f3f8a737fe5
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Sun Dec 29 18:00:25 2024 +0100
+
+    Removing unnecesary files. I just merged all styles files that were in various documents into just one styles.css file
+
+commit 2a52e90e8bd8de0fdb9b3ac8f080c7a807a5b794
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Sun Dec 29 17:59:26 2024 +0100
+
+    Modding a styles file
+
+commit 49caf32b88ed1f4b6e6254d11d465c3195f7487a
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Sun Dec 29 13:44:18 2024 +0100
+
+    Merging all styles files into an only styles file
+
+commit 10026e20050b78ef38c857d91a5b687786db4c8a
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Sat Dec 28 17:17:55 2024 +0100
+
+    Found an error and corrected it
+
+commit 28982871b37cfad19bbe4204a836be6ae58c3511
+Author: fernandospvm <9401422@alumnos.ufv.es>
+Date:   Fri Dec 27 20:43:03 2024 +0100
+
+    Adding the last changes to the changes.log file
+
 commit 365be0122bb75bf1784b03c944e545b3a28d40dd
 Author: fernandospvm <9401422@alumnos.ufv.es>
 Date:   Fri Dec 27 20:42:15 2024 +0100
