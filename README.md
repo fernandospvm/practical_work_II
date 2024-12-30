@@ -4,6 +4,9 @@ PROJECT OBJECTIVES
 - To develop and design a website with various web pages following this structure
 ![Website structure: ](docs/images/structurewebsite.jpg)
 
+- The html files and CSS file, with all images are organized in this structure
+![Website structure: ](docs/images/folders.jpg)
+
 
 CHALLENGES I FOUND
 
