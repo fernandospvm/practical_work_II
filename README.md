@@ -28,7 +28,7 @@ CHALLENGES I FOUND
 
 OTHER DETAILS
 
-- I used github to be able to save the work while I did ir so not to lose it in case something happened, making commits every time a change was made.
+- I used github to be able to manage the files, as well as older versions of the project , as well as being able to share the project with other people.
 
 
 CONCLUSSIONS:
