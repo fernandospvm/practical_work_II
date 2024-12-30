@@ -7,13 +7,24 @@ PROJECT OBJECTIVES
 - The html files and CSS file, with all images are organized in this structure
 ![Website structure: ](docs/images/folders.jpg)
 
+PROJECT DESCRIPTION
+- The project consitsts of a wepsite composed of various webpages developed with html with the functionality and with CSS for the decoration and stilization of the page. 
+- In each page there are various things: 
+- In the first one, there is the home page, with a redirection to the rest of the pages
+- We have a degree page, in which all subjects covered in the degree are explained (except FCE). 
+- The FCE subject is explained more in detail in another page, the fce.html file, in which you can see everything we learnt from the history of comupter engineering from the start to the point we are right now, as well as learning how to use gitHub for projects and and learning a bit about web development with html and CSS.
+- In the about page, you will learn a bit more about me, my personal ambitions and goals.
+- In the topic page, you will find a brief article about phishing, its history and its impact nowadays.
+- In the contact page, you will be able to contact me and write anything taht you want me to know.
+- In the net site, you will be able to see other colleague's websites and yo con visit them as well.
 
 CHALLENGES I FOUND
 
 
 - During theh project, I found various difficulties I had to deal with, such as finding some really silly mistakes I had made in the code (which took a lot of time to fix)
-- Another challenge I had to deal with was the amount of styles and hours I had to dedicate to have the style I wanted in every part.
-- Another thing I found difficult to find was the folder depth. This was due to the problems I had to go to a less deep folder in order to call the CSS file with the styles of that html file, having to ask colleagues why would that happen and finally fining a solution.
+- Another challenge I had to deal with was that I made for each hmtl file, its own styles.css file. Being the main problem at the end when merging all of them into one only file.
+
+- Another thing I found was hot to call the styles.css file in deeper html files (the ones in the pusblic folder), until I realized i has ot put a ../ before the location of the folder to find it.
 
 
 CONCLUSSIONS:
